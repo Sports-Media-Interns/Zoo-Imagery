@@ -2,6 +2,14 @@
 
 [https://zoo-imagery-nft.vercel.app/](https://zoo-imagery-nft.vercel.app/)
 
+# This website was made using Thirdweb and Makeswift
+
+## To do:
+- Need help making an NFT smart contract
+- Website is a template right now, need to think of a nice design for front end
+
+---------------------
+
 # Visually build with Thirdweb components
 
 In this example, you'll learn how to integrate thirdweb components from your Next.js app into [Makeswift](https://www.makeswift.com) to make it visually editable.
