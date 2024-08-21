@@ -7,7 +7,6 @@
 
 ### To do:
 ---------------------
-- Need help making an NFT smart contract
 - Website is a template right now, need to think of a nice design for front end
 ---------------------
 
