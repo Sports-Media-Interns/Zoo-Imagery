@@ -5,9 +5,9 @@
 ## This website was made using Thirdweb and Makeswift
 
 # To do:
+---------------------
 - Need help making an NFT smart contract
 - Website is a template right now, need to think of a nice design for front end
-
 ---------------------
 
 # Visually build with Thirdweb components
