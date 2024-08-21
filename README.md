@@ -1,6 +1,6 @@
-## Demo
+## Website Link
 
-[https://makeswift-examples-thirdweb.vercel.app/](https://makeswift-examples-thirdweb.vercel.app/)
+[https://zoo-imagery-nft.vercel.app/](https://zoo-imagery-nft.vercel.app/)
 
 # Visually build with Thirdweb components
 
